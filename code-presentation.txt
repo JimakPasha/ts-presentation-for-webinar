@@ -1,0 +1,401 @@
+﻿Ссылка:
+https://www.typescriptlang.org/play?#code/PTAEFpK6dv4YpzECgQRVxoCqA5ASQHl9QAVATQAUBRTbRmdMJt9jrVb7jARgCUqADYBTAC6gAlgDsADgFdxALlABncQCdZAc1AAfUDIUBbAEajNoALyg+AblSzFk2wHIzAQ01vHzpTZ2jhj+rqBaCqKOPCygAExCYpImAPYKaqK0AG6iMiqgbgDGwlKFANZuBgUAJmbFpRVVbqnpogpylYbNaRnVKQDuMr6oLRnZuWFFJeXDMbEAzEIAZgoyheJSKTKgJgrCG3LCAJ4AQkfk-SmgABTGJqoa2jJ6hncWmgKqb5agAN6ooGkSxu4iOclEKWBdxs1ncj10bgEfwBgNR4gAFpoBqBaJosZprm4AMKeGQAImSewOx3UWgRAkcgIAvijNBIFJpttCAFTxRwskZUqSHU7nS7XACsDLmsQALEIMIAMEEAgiCAfhBAHwggG4QQAyIIB2EEAwiCAVhBADwgoF1gAYQQCSIIAOEEAQiD60C260awBMINIZAA6UCAdBArXbzY7nQHZKBACwghsAnCDK20uo220CALhBzQnQMr9YA2EHNgDkQS2Gw2gF2AaRBAAIg5vThsAvCDW-OhzWAeRBA66PU48pYlp5CqJQIRcBkrP9UdJqg86c9GaiZJ4TKIR08dOPAZ4dDOjKZ3vzuLJxG2O12e324sjB1Jh7S5wv1Bz8FOV-Cx6gBYUthpQMIUjpez9bNdWppVPufkMADNASVQshSE8bAAPiPVEpGBa4yUnacyXdUBfyRAdB1RJ8ZDUFIxA9N8dB-PsPWQ0QGUHFFmRo8JMWxXF8UJGQrgoxENzmDApRbbdNHbTtQGoYRPCOH4sMBCjZ10C8lxXb5NE4rcd0EgARd9YKMBopLPGSaLkr410sTjQXBUAiRSExUhkcgwS7WxhNEwDQHU+cZQwThPK8zzYm85Bu3wchaAAJQAZVoIlyBIMgqDoBg-OYDyEuSlLYBlZT+N3bsAEFqhMWQ+E0odpPvQcdLvNzBwM1dzGMh9N1bTLBMIXL8pkQ8JOK3TStRNQrxvEq3MfZ9JGI1qQ2-Tw8tkf9xpkQqADIcum9rPlAcDIOsGDOtw-DCOI64praj0Tyo1F6pEd85uuX4T1UNxQrUABpaoAE55gAdgAKTcAAaIwBoKE4UjMP7L00a9p3ugBZbwxCOMHqvmAA2JkhC41hUqxlLfOxhBQAANWIQhVPivHEsx8mqfYGUVjWDYtlAJYUhSPhrkw1l2U5TiYjp9ZNm2ZmUjidnYN2gjRCI99CQACVEYQ3wAQkRC6eCS6mNewXHNcgUB8FoAmQrJ6ntZ1s34BlXbJHbKRhECa4TDUHRBqRLaioxLF+iMUQvaYlICUdnQhAFGIrfdJZZCkbd7dd7a6P6dFba7a4IkoorB3F-bpbcViWbz-OUkVouOLolkQ7Vynzar6BTap0BsvwSh-oIJ78GIAB1MgNdr6uq8tkbQDkbwMnttQXdUVYylYwZoNgtlxA5bYvtC0gPSHzQMmuNRpXL7g+YZ7YvAJTxVFJI4OcXD0zHZi794FpmRZP9CZCngYZAv0BPCv9meYr43e7Nj3VKoBABEIIqQA+CCKm9IqQABCCAGIQQAqCCABwQUAMCEGABQQQACCCACwQQAhCD-2SkAgBmtuBh0jhsTwwhQriE8NHWwnUdJuGoJ4NQ6JPB-TotVOIH1fp0UKFHI490ZaWXlhw4aeFJBsmqAoTsVhvwaFofZd0UcpCUOoYo-6HYD6xyKmofoUdCjohuFogWHpTJp06hnFhXZsr82fLZcEHpwrkAAPr4GytDWgyg6LYUHPPRefwPRBIUduf6OkTFbDXqJN8U0mQXisSPWxB81AOMls4lx2UADiXifG+MBP4zkgTgk0NCZ-Zcp87GeiHkcGJ1Q4m5MBNUUQ7YqTeLyb4gp2wQlRFLhdXIph66VJSXZdO6T3GeMCA9Wgrjxm0A4dhdJWT6DuEWdktwF0w4ZHEJDJRtwbw6JuuY1QSSBbDMcWMjxtB-rVNqV8G8aNHCbIkNlZc9s5IHN+EcwZyTUlOOmRk7J1zokpCmqfZcDzeCV2IYA9WyVQCADwQcBYCkFQMwYAMhBFSAHoQVBmDACIIPCkBgBqEFAPg+FuLABUIAg7BIDMEooIWwIh0KqZ-1VNaQAEiAmlANaCstpDTFkACIgkZlSFl4ipPcFEirlVHENBqfEBJ7jkkVaqCklKNXld2fhoIiqasEd2DY4gxCqrlVlQg+qxDuyjmIQaRqxXdhBgAKyVf+CiF4zD-jkheQo-4dWcTDg6-8DrAidSfr8RhzDWHsKZLwwcbq-hcI+lGvhqhfg6uTWalcbhhHTjtszNkOQfBMkTeIl8+FpwYl0O6159CuEAA56l-wtOGKMMYjSmnNC6W06pjTmidIAcRBDTKgTNaCMBZCwunVKGRs6oXSoD9WYe1h56GcOTWGlhbC3CJpjcm2tm6cLJtTX8dNQiRE5v9qIfNG6i2oHMaAUKIjUmLvCHZSEoAHVxA9J4Ko5iX1vqvl+59wJf2FEeQPUtEhE7PDiKoO904H1Bq4RKetMQMChm5eaY01p+2DuHaO8dk6nSqnNLOgeDr5hBuXX8VdEaN3RtRLG348bd2Ai9X8A9nzLUZqzfLJmZ6L2Ft4QKG9MHRCpPmAAHnIDBWw5BQCiAAB7bhkNUNQfwADaZRRC6oqgAXVULIJYPxcBMlAAAfjwKAL4566rEYkeoER5bnjzGg-euy4nv2AfnfMKTcbynxDrdEZDUKmXd1hcFkLQWwvk0ZZF1K0WYuENC-F7GcWkveRS1gUAgAKEHAZgmBgBkEEwYAbBBsGYNAOA+FoCIGooxYqUAwVaCqVwAADVAOgwr2KkEIMALgg2KvLpdS5wSFdghs3vwHsESZgxASe88YBWVRyD2FAENshMgVFqJKUo-4GAyqAyYZ4HIwgOHbdRMq8bn8VNjYVp4SbogxMKSgrw47gI5DohSOIFI90jtgAFBgITG3UmBHc8oihVCNvBDADek5WwAe2FChIHZUPtiGDh+IF5ohEfRAwGHKRMivw3G6dB-7IzbDkNUaDjRn9KnHMqakta6jtww7jk99Q+jxCGOMZUsxdkObM4STYoZvyLmeO8bzvJnSikem6WEwGESqnAtieD9poBCjWO+acwX-ylki7AEr1E4vfhBMlxtzRvnZdRJqSCupiv2lNJafsbXuu9dcy6WD2Ig4WQYB+2AfpJg1f2JGVtnXqIhfLIKCHr7CzNfZMmasuZsQvfumNYJFHCPKnImZ18xHZy0n-Nmdb1ENzLfWvj0NjK6qUdo8R+noPgJM8C7sn81xSz8-Pfl6eFVJfYhPO2Tee2Uq5x0-hzeKvbtDl2Wpz8hvIegUW9BQDacEKsegeeVW4xvmFKD9R8uEfMEx-ggn+rqfUermDzb2C0QEKhtxBGyMy7E2puScCLNu2hgFtLa7wPUn63FHkeZ6ug7EeVU6+Z2LCes4212U292j2Neg8r272n20BoACef2iiMOT64IL6X+5O24iukO9eZktgwUzuAOYmQOWyOyMEhgRBC8nIJBZBK+ogUEAWS+tmOOsio8G2hOqBxOwOZO9OogmiVOfueEtOs8ge2EeiBiRih0nO5iPOMBfOoAZIIeZIDujuoA+uhuUu8+K4ZuheCubueSKuI8yhx+qhhhuumhxSFO1Uehbe9SoujSzSngrSFhSu4u3SLeSBneLBJaQ+04fegMFUHyXyUyMylyYM+h7e9y52yuI00ovhkgWyaObywBtUHws8e+GasekRZ+ZSF+sRVs0oCwN+Zkd+EBt2j+tgz+82i2y2n+q2IO-Bv+MB-+oiiBQB8kIBF24BN2d2RkmgD2bhL2b2H2BQEeyBIy-BaBQOWB-BuBIy1AWI4I2gog2e02gQMm8mimymamGmWm0qum4chmxmZmuAFm3s+aCxZkWeaB1Bi8qSYmSxKQKxUgaxjxQOsuagUEUEf82Oog0i7B8inBt6ROBBvB3+pSsuB+-u4IOi4hg4khbO0hZuch1eSuxhXYph4Rni5hjh2EVhRuFO4SnOURDhChOEqu2JAKtAeJFJHSzuEu2hthpJ9hXhg4tuLh9ubh7SHhruzOHu329RtmXxLREh-hK4eyUM3UQcmRny4+YeueERM+tyOhxmoBRRHRvUDBqgh0aR7wIRCpYRNJuRs+p4ck6pKmmpJeQAA
+
+
+================================================================
+================================================================
+================================================================
+================================================================
+================================================================
+
+// ----------------------------------------------------------------------------------------
+// -------------------------------------- UNION TYPE --------------------------------------
+// ----------------------------------------------------------------------------------------
+
+
+
+
+// 1)
+let input: string | number = 1;
+input = 'bar';
+input = 1;
+// input = true;
+
+
+
+
+// 2)
+let mouseEvent: 'click' | 'dbclick' | 'mouseup' | 'mousedown';
+mouseEvent = 'click';
+
+
+
+
+
+// 3)
+function multiplyByTwo (num: string | number): number {
+  if (typeof num === 'string') {
+      throw Error('Can"t multiply string');
+  }
+  return num * 2;
+}
+
+multiplyByTwo(5);
+
+
+
+
+
+// 4)
+// Используем защиту типов in. Защита типа in действует как сужающее выражение для типов.
+interface IUser {
+    id: string;
+    name: string;
+    age: number;
+}
+
+interface IUser2 {
+    id: string;
+    surName: string;
+}
+
+const logUser = (user: IUser | IUser2): void => {
+    if ("name" in user) {
+        console.log(user.name);    
+    }
+    throw Error('no name');
+}
+
+
+
+
+
+// 5)
+interface Player {
+    name: string;
+    age: number;
+}
+
+interface Dog {
+   nickname: string;
+   age: number;
+}
+
+type CommonType = Player | Dog;
+
+
+
+
+
+// ----------------------------------------------------------------------------------------
+// ------------------------------------ INTERSECTION TYPE ---------------------------------
+// ----------------------------------------------------------------------------------------
+
+
+
+
+
+interface IAdmin1 {
+    id: string;
+    name: string;
+    age: number;
+}
+
+interface IAdmin2 {
+    id: string;
+    surName: string;
+}
+
+const logAdmin = (admin: IAdmin1 & IAdmin2): void => {
+    console.log(admin.id);    
+}
+
+logAdmin({id: 'SsKd937J', name: 'Bob', surName: 'Marley', age: 36})
+
+
+
+
+
+// ----------------------------------------------------------------------------------------
+// ----------------------------------------- VOID -----------------------------------------
+// ----------------------------------------------------------------------------------------
+
+
+
+
+
+function foo1() {
+  return;
+}
+
+
+
+
+
+function foo2() {
+  console.log('Hello!')
+}
+
+
+
+
+// ----------------------------------------------------------------------------------------
+// ----------------------------------------- NEVER ----------------------------------------
+// ----------------------------------------------------------------------------------------
+
+
+
+
+
+const fail = (msg: string) => {
+    throw new Error(msg)
+}
+
+
+
+
+
+const infinite = () => {
+    while (true) {
+        console.log('nooooooooooo!!!');
+    }
+}
+
+
+
+
+
+// ----------------------------------------------------------------------------------------
+// -------------------------------------- ANY, UNKNOWN ------------------------------------
+// ----------------------------------------------------------------------------------------
+
+
+
+
+
+const parse = (s: string): unknown => {
+  return JSON.parse(s);
+}
+
+
+
+
+
+function bar(a: any) {
+  a.b()
+}
+
+function f2(a: unknown) {
+  a.b();
+}
+
+
+
+
+
+// ----------------------------------------------------------------------------------------
+// ----------------------------------- ТИПИЗИРУЕМ РЕДАКС ----------------------------------
+// ----------------------------------------------------------------------------------------
+
+const initialState = {
+    name: 'Pasha',
+    age: 27,
+    city: 'Homel',
+}
+
+const reducer = (state = initialState, action) => {
+    switch (action.type) {
+        case ActionsType.SET_NAME:
+             return {...state, name: action.payload};
+        case ActionsType.SET_AGE:
+             return {...state, age: action.payload};
+        default:
+             return state;
+    }
+}
+
+enum ActionsType {
+     SET_NAME = 'SET_NAME',
+     SET_AGE = 'SET_AGE'
+}
+
+const setName = (name) => ({type: ActionsType.SET_NAME, payload: name});
+const setAge = (age) => ({type: ActionsType.SET_AGE, payload: age});
+
+// ----------------------------------------------------------------------------------------
+// ------------------------------ ОПТИМИЗАЦИЯ РАБОТЫ С ОБЪЕКТАМИ --------------------------
+// ----------------------------------------------------------------------------------------
+
+
+// пишем интерфейсы
+interface Iname {
+    name: string;
+}
+
+interface Iage {
+    age: number;
+}
+
+interface Icity {
+    city: Ititle;
+}
+
+interface Ititle {
+    title: string;
+}
+
+interface Iobj {
+    a: Iname;
+    b: Iage;
+    c: Icity;
+}
+
+const obj: Iobj = {
+    a: {name: 'Pasha'},
+    b: {age: 27},
+    c: {city: {title: 'Homel forever'}},
+}
+
+const something: Iage = {age: 28};
+
+
+
+// задействуем автоматический вывод типов
+const obj2 = {
+    a: {name: 'Pasha'},
+    b: {age: 28},
+    c: {city: {title: 'Homel forever'}},
+}
+type SomeType2 = typeof obj2.a | typeof obj2.b | typeof obj2.c;
+const something2: SomeType2 = {age: 25};
+
+
+
+
+
+// динамический вывод типа
+const obj3 = {
+    a: {name: 'Pasha'},
+    b: {age: 27},
+    c: {city: {title: 'Homel forever'}},
+}
+
+type SomeType3<T> = T extends {[key: string]: infer U} ? U : never;
+
+const something3: SomeType3<typeof obj3> = {age: 28};
+
+
+
+
+
+// ----------------------------------------------------------------------------------------
+// ----------------------------------------------------------------------------------------
+// ----------------------------------------------------------------------------------------
+// ----------------------------------------------------------------------------------------
+// ----------------------------------------------------------------------------------------
+// ----------------------------------------------------------------------------------------
+// ----------------------------------------------------------------------------------------
+// -------------------------- ШПАРГАЛКА ПО ТИПИЗАЦИИ REDUX ДЛЯ МЕНЯ -----------------------
+// ----------------------------------------------------------------------------------------
+
+// 1
+
+// type Nullable<T> = null | T; 
+
+// const initialState = {
+//     name: 'Pavel',
+//     age: null as Nullable<number>,
+//     photo: '',
+// }
+
+// type StateType = typeof initialState;
+// type ActionType = SetNameAction | SetAgeAction;
+
+// const reducer = (state: StateType = initialState, action: ActionType): StateType => {
+//     switch (action.type) {
+//         case ActionsType.SET_NAME:
+//             return {...state, name: action.payload};
+//         case ActionsType.SET_AGE:
+//             return {...state, age: action.payload};
+//         default:
+//             return state;
+//     }
+// }
+
+// enum ActionsType {
+//     SET_NAME = 'SET_NAME',
+//     SET_AGE = 'SET_AGE'
+// }
+
+// interface SetNameAction {
+//     type: ActionsType.SET_NAME;
+//     payload: string;
+// }
+
+// interface SetAgeAction {
+//     type: ActionsType.SET_AGE;
+//     payload: number;
+// }
+
+// const setName = (name: string): SetNameAction => ({type: ActionsType.SET_NAME, payload: name});
+// const setAge = (age: number): SetAgeAction => ({type: ActionsType.SET_AGE, payload: age});
+
+
+// 2
+
+// type Nullable<T> = null | T; 
+
+// const initialState = {
+//     name: 'Pavel',
+//     age: null as Nullable<number>,
+//     photo: '',
+// }
+
+// type StateType = typeof initialState;
+// type ActionsType = ReturnType <typeof setName> | ReturnType <typeof setAge>;
+
+
+// const reducer = (state: StateType = initialState, action: ActionsType) => {
+//     switch (action.type) {
+//         case "SET_NAME":
+//             return {...state, name: action.payload};
+//         case "SET_AGE":
+//             return {...state, age: action.payload};
+//         default:
+//             return state;
+//     }
+// }
+
+// const setName = (name: string) => ({type: 'SET_NAME', payload: name} as const);
+// const setAge = (age: number) => ({type: 'SET_AGE', payload: age} as const);
+
+// 3
+
+// type Nullable<T> = null | T; 
+
+// const initialState = {
+//     name: 'Pavel',
+//     age: null as Nullable<number>,
+//     photo: '',
+// }
+
+// type StateType = typeof initialState;
+// type ProperiesType<T> = T extends {[key: string]: infer U} ? U : never;
+// type ActionsType = ReturnType<ProperiesType<typeof actions>>
+
+
+// const reducer = (state: StateType = initialState, action: ActionsType) => {
+//     switch (action.type) {
+//         case "SET_NAME":
+//             return {...state, name: action.payload};
+//         case "SET_AGE":
+//             return {...state, age: action.payload};
+//         default:
+//             return state;
+//     }
+// }
+
+// const actions = {
+//     setName: (name: string) => ({type: 'SET_NAME', payload: name} as const),
+//     setAge: (age: number) => ({type: 'SET_AGE', payload: age} as const),
+// }
