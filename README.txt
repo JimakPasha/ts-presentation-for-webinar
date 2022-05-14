@@ -1,6 +1,6 @@
 src: slides.com => typescript-different
 
-+ Тема доклада:
+ Тема доклада:
 + ТИП ОБЪЕДИНЕНИЕ
 + ТИП ПЕРЕСЕЧЕНИЕ
 + ДЛЯ ЧЕГО НАМ VOID, NEVER, UNKNOWN, ANY
