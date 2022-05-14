@@ -1,4 +1,4 @@
-link on src: https://slides.com/pavelworking/typescript-different/edit
+src: slides.com => typescript-different
 
 + Тема доклада:
 + ТИП ОБЪЕДИНЕНИЕ
